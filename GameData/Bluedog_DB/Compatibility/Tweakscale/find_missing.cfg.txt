@@ -1,0 +1,5 @@
+@PART[bluedog*,Bluedog*]:HAS[!MODULE[TweakScale],~TechHidden[],!MODULE[ModuleProceduralFairing],!INTERNAL[*]]:NEEDS[TweakScale]:Final
+{
+	@title ^= :^:-- NO TweakScale -- :
+	@category = Control
+}

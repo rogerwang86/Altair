@@ -1,0 +1,55 @@
+Authors:
+	CobaltWolf - Original author
+	Jso - Balancing, compatibility configs, programming,
+	Zorg - Parts, compatibility configs, plumes
+	Invaderchaos - Parts, texture variants
+
+Authors (former):
+	VenomousRequiem - Modeling, RP configs, bugtesting
+
+Contributors: (No particular order at this point)
+	Friznit - Created and maintains the officially unofficial wiki
+	PassingLurker - Bloeting Corp parts for Mercury
+	Beale - TRAILS parts for Gemini
+	Araym - Bugtesting + Balancing
+	Kurld - Apollo Launch Abort System + working with Jso to get it all working.
+	Komodo - Lots of balance, bugtesting, and compatibility, including cooking up some crazy projects with Jso
+	129828 - Assistance with Micrometeoroid Impact Detector sciencedefs
+	fs10inator, TimothyC, Curtquarqesso, A1Ch1, AnthonyJOlson97@gmail.com - Research
+	Foxxonius Augustus - Research, Hypemaster General
+	Drekerb42 - Sciencedefs, part descriptions
+	DiscoSlelge - Memes, Manual
+	Sgt.Shutsie - Craft Files, screenshots
+	Cowboy-WY - Bugfixes, compatibility configs
+	Mods-O-Joy - LEM IVA
+	Daelkyr - Modified Apollo IVA
+	IronCretin - Bugtesting + Balancing
+	Akron - Feedback, bugtesting, sciencedefs
+	Benjee - APAS 95 docking port
+
+Dependency Credits:
+	Blowfish - Author of B9Partswitch
+	Blowfish - Author of Simple Adjustable Fairings
+	Sarbian & Blowfish - Authors of Module Manager
+	DMagic - Author of DMagicScienceAnimateGeneric
+	Nertea - Author of ModuleDeployableEngine (modified in BDB)
+	Nertea - Author of Waterfall
+	Roverdude - Author of Community Resource Pack
+
+Misc credits:
+	Felbourn - Advice on texture sizing and image compression
+	DMagic - magnetometer science definitions.
+	Frizzank and the FASA mod - geiger counter sciencedefs, Gemini IVA, and Launch Clamps
+	RGBpeter - KSP decal library
+	Beale - solar panel textures
+	Ledenko - K-P0110 IVA
+	Skivolkls - Provided basis for Pioneer 10/11 Plaque Flag
+	Beale - Help with designing new APAS 75 docking port and ensuring APAS 75 compatibility w/ Tantares 
+
+Special thanks:
+	Everyone who comments on the thread! Your feedback is important and appreciated!
+
+Programs used (for those curious):
+	Modeling is done in Autodesk Maya 2016 and Blender
+	UV Mapping is done using the non-commercial release of Nightshade UV Editor
+	Texturing done using Adobe Photoshop CS6 

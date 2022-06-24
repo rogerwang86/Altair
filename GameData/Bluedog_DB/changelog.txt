@@ -1,0 +1,815 @@
+BLUEDOG DESIGN BUREAU CHANGELOG
+
+v1.10.2
+New Content and features
+- New "Baby Centaur" Kick Stage
+- New detailed IVA for Skylab orbital workshop. Applied to historical workshop and the wet workshops
+- Custom decals for BDB to work with Conformal Decals (thanks to Viper)
+- Apollo inspired mission patch flags (thanks to Icecovery)
+- New ULA inspired BDB flag (thanks to Pickledtripod)
+
+Updates and Enhancements
+- Compatibility patches for Extraplanetary Launchpads cargo (thanks to Rodg88)
+- Added 1.875m top node variant for Delta IV 3.125m fairing base in addition to existing 2.5m node, added ring only version with no truss.
+- The Delta IV standalone payload adapter truss can now switch from 3.125m->2.5m, 3.125m->1.875m and 2.5m->1.875m
+- New DCSS paint job based on Demosat/TOPAZ launches
+
+Bug fixes
+- Aero fixes for jettisonable SLA panels
+- Aero fixes for Apollo capsules and heatshields
+- Thermal fix for Advanced Apollo "feetshield" (thanks to Rodg88)
+- Fix Skylab ATM robotics truss surface attach (thanks to Gotmachine)
+- Various minor texture fixes
+- Minor description and tag fixes
+- Node fix for Big G service module
+- Fix RL10 emissives
+
+v1.10.1
+
+New Content and features
+- Wide SLA for Saturn  H03 from Eyes Turned Skyward (can house an ETS Artemis/ Constellation Altair lander from other mods)
+
+Updates and Enhancements
+- permanently delete deprecated old Skylab, APAS and E1 parts in BDB/OldParts
+- Updated Connected Living Spaces patch (Thanks to Aelfhe1m)
+
+Bug fixes
+- Fixes for F1 and E1 plumes
+- Fix Apollo advanced heatshield texture bug with TU
+- Minor texture fixes
+- Some craft file fixes
+- Fixes to USI-Life Support patch (Thanks to somnambulistic)
+
+v1.10.0
+
+New Content and features
+- BIG REVAMP OF SATURN, APOLLO & SKYLAB!!
+
+Apollo
+- New Apollo capsule with multiple variants including Skylab and Boilerplate variants
+- Official PBR support for Apollo capsule via Textures Unlimited with custom PBR textures (Thanks to Truthful Gnome)
+- New block II SM with realistic SIM-bay and alternate bay interiors
+- Apollo CM terrestrial landing heatshield with legs and retro motors
+- New SIM-bay experiments and revamped sub satellite
+- New LM with independent legs and silver MLI variant
+- New LM and CSM engines
+- 16 new surface experiment parts based on the Apollo Lunar Surface Experiment Package (ALSEP). Requires Breaking Ground DLC.
+- Multiple R4D rcs variant blocks
+- LM MESA experiment, goo experiment based on RTG cask, and cosmic ray detector
+- Revamped ETS advanced Apollo service modules and mission modules
+- revamped AARDVARK block I and block II, plus unpressurised segment.
+- new accurate CADS docking port in passive and active models (1.25m)
+- Apollo Boilerplate CM and SM
+- New Apollo SM Doppler Antenna (used on ASTP mission)
+
+Saturn
+- All new Saturn V at correct real world to KSP scale ( S1C and SII now 6.25m, SIVB 4.25m).
+- Multiple variant lengths for S1C including various stretches for MLV as well as common bulkhead variant.
+- Variants for S1C engine mount
+- Multiple mounting truss options for the SLA. Wide SLA variant with straight walls for larger payloads
+- Multiple variant lengths, 5x and 7x engine mount variants for SII.
+- SII to 3.75m Generic mount and dedicated 3.75m M1 engine mount.
+- Multiple variant lengths, SOFI texture variant and LASS mount option for the S4B
+- Variants for Saturn V engine mount
+- S1D Atlas style half staging mount and vernier engine
+- New inline and radial AJ260 solid rocket motor in multiple length variants
+- Revamped and resized Saturn I (first stage 4.25m, S4 3.75m) with multiple length switches
+- 6.25m (MLV) and 4.25m (Skylab style), and 3.75m SAF fairings.
+- 2.5m Saturn I fairing variant
+- Truss adapter for AARDV and Centaur
+- New E-1 engine
+- New sustainer variant for the F1
+- New H2 variant (subtype on the H1)
+
+Skylab
+- All new historical Skylab with Breaking Ground based robotics truss for the ATM
+- Jettisonable shielding for the orbital workshop with custom PBR texture support via Textures Unlimited for the bare workshop
+- Skylab external experiments
+- New wet workshop model
+- New Venus flyby wet workshop with expanded shielding and 12x solar panels
+- New Venus flyby mission module with unpressurised cargo bay, experiments and reentry probes.
+- New ETS Spacelab parts
+- Aft MDA based on EOSS proposals for expanding Skylab derived from the back
+
+Gemini
+- parts for Big Gemini conical service module (4.25m S4B diameter)
+- Abort tower for Big Gemini
+
+Other
+- New Saturn I-based Pegasus micrometeorite satellite
+- Replaced old APAS (0.9375m) with new model by Benjee10. Compatible without conflict with Benjees own mods (Habtech, SOCK etc)
+- Apollo Soyuz Test Project (ASTP) docking adapter and experiment
+- APAS 75 docking port from ASTP. Compatible with corresponding Soyuz base counterpart being added to Tantares.
+- New Agena Horizon Sensor part (definitely apollo related)
+
+
+Updates and Enhancements
+- Update bundled Waterfall to 0.8.1
+- Update bundled B9PS to v2.20.0
+- Some solar panel EC output balancing
+- Minor science balancing
+- New Agena Avionics Unit 'split' paint variant
+- DCSS 2.5m Fairing Base paint variants (white, black, and gray)
+- Updated craft files courtesy of Friznit
+
+Bug fixes
+- Fix more typos
+- Minor tag fixes
+- Fix Delta IV engine shroud texture
+- System Heat fixes for nuclear engines
+
+v1.9.0 "пробе"
+
+New Content and Features
+- Pioneer 10 and 11
+- Extra Pioneer 10/11 derived parts including Pioneer SUAE (Saturn Uranus Atmospheric Entry) and Pioneer Outer Planets Orbiter
+- Clementine and ISAS
+- Radio Astronomy Explorer A/B (and Star-17/Star-17A)
+- Transit 3 and 4
+- Transit 5A, 5C, 5O/Oscar, 5BN, 5E, and SOOS (Stacked Oscar on Scout)
+- Beacon Explorer
+- SOLRAD 8
+- LOFTI
+- INJUN 1
+- POPPY (block 1 and 2)
+- ANNA 1B
+- New small probe (0.625m) sized grapple "Klaw"
+- New Titan 23G/Titan IIIB Structural Adapter Part
+- Revamped Geiger counter
+- IVA's for MOL made by Beale
+- New IVA props by Well and Beale
+- Revamped Peacekeeper/Athena/Minotaur textures
+- Revamped Geiger Counter and Solar Battery mesh and texture
+- New Titan Gemini Decoupler IIIA Variant
+- Able variant for Thor Boattail
+- Thermal Control Pinwheel Texture Variant for Pioneer P3
+- New Transtage Alternate White Variant for tankage and shroud
+- New Metal Separation Nose Cone Variant for Titan UA120 Motors
+- New LDC Black Texture Variant and Alternate Blue LDC Texture Variant
+- Delta IV densified propellant switch in BDB Extras (By Estreetrockets)
+- Optional patch to replace BDB boiloff with CryoTanks boiloff in BDB extras (by Grimmas)
+- Add engine ignitor configs for M1, XLR129, RL20 and RS30
+- New kerbalized flag for Pioneer 10/11 Plaque
+
+Updates and Enhancements
+- Update bundled B9 Part Switch to 2.19.0
+- Update bundled Module Manager to 4.2.1
+- Update bundled Waterfall to 0.7.0
+- Old Centaur parts deleted from OldParts folder
+- SOLRAD/GRAB 3 variant for SOLRAD/GRAB 1
+- Massive LDC Texture Cleanup
+- HAPS/Super HAPS Texture Cleanup
+- Massive Titan Texture Cleanup (spanning titan 2,3, and 4 tankage, engines, transtage, most structural parts, and UA120 Solid Motors)
+- Titan 23G Second Stage Texture Redone (with ACS slightly upscaled to be more accurate)
+- Scout Texture Cleanup
+- New multispectral scan science definition
+- New cosmic ray telescope science definition
+- New trapped radiation science definition
+- Added cosmic ray experiment to OGO PEP Instrument
+- Added trapped radiation experiment to Pioneer 4
+- Added solar wind experiment to Mariner 10 Plasma Instrument
+- Added UV Spec and Solar X-Ray experiment to WRESAT
+- Massive science balancing tweaks
+- Minor antenna balancing
+- Cargo support for many probes and experiments
+- Less powerful (realism focused) Scout balancing variants available (optimal for launching Transit missions)
+- Craft files for the new probes
+- Titan 23G/IIIB Craft file updated (to reflect new 23G/IIIB structural adapter part)
+- A few more Titan and Delta craft files
+- Massive SCANSAT balancing tweaks to accommodate multispectral scanners
+- Added SCANSAT support to a few more parts
+- Add (minor) support for KSRSS/RSS in a few science definitions
+- Add support for SMURFF with RSS (thanks to genehwung)
+- Add support for Engine Ignitor for BDB 1.8 cryo engines
+
+Bug fixes
+- Minor typos and such
+- Update Procedural Fairings compatibility patch
+- Fixes for Atlas surface attach patch in Extras (Thanks to Pappystein)
+- Fix science transfer issues on MOL labs and Gemini (thanks to birdog357 )
+- Minor bugfixes in contracts (thanks to Morphisor)
+- Add missing entry cost to some parts
+- LDC Short Interstage Mesh Normals Fix
+- Titan 2 Upper Stage Raceway Fix
+- P-11 Subsatellite Node Fix
+- Real description fixes
+- Misc tag fixes
+- Fix Nimbus Early Command Antenna node height
+
+v1.8.1 "Мороз"
+
+Updates and Enhancements
+- Update bundled Waterfall to 0.6.6
+- Update BDB versioning for KSP 1.12.x
+
+Bug fixes
+- Correct 2.5m Gemini heatshield stats.
+- Fix splashdown orientation for Gemini capsule.
+- Fix disconnected coolant pipe for nozzle extension on large bell variant of XLR129.
+- Fix Gemini lander IVA rotation
+- Various typos in configs
+
+v1.8.0 "Мороз"
+
+New Content and features
+- Aerojet M-1 engine in SL and vacuum version.
+- P&W RL20 in SL and vacuum versions.
+- P&W XLR129 in SL and vacuum versions. Can be operated with nozzle extended or retracted.
+- Rocketdyne RS-30 Advanced Space Engine.
+- BDB Plugin updated with animated multimode feature to support XLR 129 functionality. Based on Deployable Engines by Nertea.
+
+Enhancements
+- BDB Plugin updated to support deployable nozzles with Safe Solid cutoff.
+- SR-120 and Orbus 6E now have Safe Solid.
+- refreshed textures and model for the RS-68
+- Rescale Star 37, Star 48 and Burner II to more realistic proportions.
+- Updated Saturn rescale patch. (Will offer performance similar to upcoming new Saturn parts).
+- Update bundled Community Resource Pack to 1.4.2
+- Update bundled Waterfall to 0.6.3
+
+Bug Fixes
+- Added TransformOverride to some waterfall configs. Makes them resilient to patches from other mods targeting different transforms. (Fixes some missing plume bugs for LR91 engines)
+- Reconvert Mariner 10 textures to remove some artifacts.
+- Fix engage sounds on some engines (Able and Apollo waterfall)
+- Fix some typos
+- Add probe core to IUS, TOS, Athena OAM and Peacekeeper PBV instrument units, adjust balance.
+- Fix Agena subsatellite config and fx.
+- Fix Vega GE405H waterfall causing nullrefs when another mod uses the same template.
+- Fix z-fighting in Vega GE405H inner glow effect.
+- Fix Titan 3E PLF SAF not shielding properly
+- Fix mariner 10 engine bottom node position.
+
+v1.7.3  "огромный"
+
+Bug fixes and tweaks
+- fix Gemini lander engine waterfall plume
+- Fix some typos
+- Fix system heat patch not applying to SNTP 45.
+- Give 5m DCSS colliders some more breathing room so it works better with thicker interstages from other mods.
+- Fix Waterfall plumes for Dual Engine Centaur mount, Vega GGE405H vernier and Gemini OAMS.
+- remove throttle response from small probe engine using hydrazine WF plume.
+- Fix Gemini drogue chute inverted mesh.
+- Fix Mercury LES orientation.
+- Fix Gemini Lander low profile docking port orientation to match indexing key on new Gemini.
+
+v 1.7.2 "огромный"
+New content and Features
+- KH9 Hexagon with new MKIV reentry vehicle.
+- Mariner 10 probe.
+- Transit 2A and GRAB probes.
+- Strawman probe.
+- OSCAR-1 probe.
+- SNAP 3 and SNAP 19 RTGs.
+- Waterfall is now a soft dependency and default handler for liquid engines plumes. RealPlume can still be installed for better sea level SRBs. (thanks to Dylan Semrau, Knight of St John and Katniss for important contributions).
+- Waterfall is now bundled together, mandatory for CKAN installs, optional for manual installs.
+- Full support for all liquid engines and RCS for Waterfall.
+- New SAF fairings: Atlas II MPF, Delta IV composite, Peackeeper, Athena, Minotaur, POPPY, Strawman.
+- Dual payload adapters for Delta II and Delta IV/Atlas V.
+- Delta IV size stretch for 4m DCSS.
+- ICPS stretch for 5m DCSS.
+- Atlas booster skirt auto jettison feature. Enable in VAB and choose desired G limit for auto staging.
+- Timber Wind 75 nuclear engine (by Maffif).
+- Timber Wind 45 nuclear engine.
+- Some remote tech compatibility updates (from LaurentyB and SpacedInvader).
+- Connected Life Support compatibility (from Morphisor).
+- Neptune Camera configs (by Orbital Maneuvers & zakkpaz ).
+- New running engine sound (from Katniss).
+- New running engine sound (from Beale).
+- Scidef flavour text updates (by Ordinary Kerman).
+- Additional craft files for new spacecraft (Friznit).
+- 3.125m to 2.5m structural adapter based on DCSS interstage. (by Pickled Tripod).
+- Optional integration with System Heat in BDB_Extras for nuclear engines. Enables Heat and reactor management.
+- Compatibility with SpaceDust for OAO telescope parts.
+- Revised textures and new variants for GEM SRBs.
+- Basic support for KSP 1.11 inventory and cargo. (hopefully in a backwards compatible way)
+
+Bug fixes
+- Apollo contract (Morphisor)
+- Thrust Buff patch in Extras (MotokiKun)
+- Vega engine textures
+- Removed extraneous modules from craft files
+- Resolve B9PS solar panel issues with Kerbalism and Kopernicus (Hemeac)
+- All SAF fairing bases now surface attachable (can be used to place conformal decals on fairings by placing on base and then offsetting)
+- Patch to resolve minimum mass issues in KSP 1.11 onwards
+- make shared upgrade nodes (mainly probe cores), resistant to breaking if part folders are pruned. Bluedog_DB/Parts/Shared must never be deleted.
+- Fixes to various craft files
+- Fix Apollo docking lights for KSP 1.11
+- Fix LDC structural adapters so they function as described with respect to optional decoupling and crossfeed toggle.
+- Fix Tempel Ion Engine overheating
+
+- HOTFIX: Fix RL10 textures
+
+Other
+- Previously soft deprecated parts in BDB 1.7.0 permanently deleted.
+- Update bundled B9 Partswitch to v2.18.0
+- Update bundled Simple Adjustable Fairings to v1.12.0
+
+v 1.7.1 "огромный"
+
+Fixes
+- Fix some soft deprecated part models not loading (due to KSP excluding models from folders named zDeprecated)
+- Move most soft deprecated parts to new directory Bluedog_DB/OldParts for easier deletion. Users who have purged their craft of old parts can safely delete this folder.
+- Fix AJ10-118x name
+- Update craft files with SAF fairings
+
+- v1.7.0 "огромный"
+
+New Features
+
+- Revamped Agena parts including historical Agena A,B,D, ATDA & GATV. Strapon tank Agena and proposed engine upgrades too. P11 Agena subsatellite.
+- Agena Adapters for Titan III, Atlas SLV3B and ETS Carrack.
+- Keyhole satellites including KH1, KH4, KH4B, KH7 and KH8. Coronoa recovery pod.
+- New Centaur D with jettisonable insulation panels and new RL10 engines.
+- New Centaur T.
+- New Able upper stage and AJ10 engines.
+- Completely revamped Thor Delta family. Nearly all variants possible from the earliest Thor through to Delta II and III. Combined LR79 engine with variants for LR79, S3D and RS27. New Castor solid motors.
+- New Ablestar, Delta K and Delta P upper stages along with AJ10 and TR201 engines.
+- Delta HOSS (Hydrogen Oxygen Second Stage).
+- Delta IV including RS68 engine, 5m (3.125m) DCSS and various parts necessary for all variants including Small, Medium, M+ and Heavy.
+- New Gemini capsule and modular equipment section. Various service module variants including Lunar Recon and Long Ferry.
+- Updated Gemini Ferry and Big Gemini capsule parts.
+- New Juno II and IV parts.
+- New Mercury capsule.
+- New Redstone rocket. Juno I spin table functionality available with Dock Rotate mod.
+- New F1B variant for the F1 engine.
+- New Vanguard rocket with GE405 engine and Vanguard Able upper stage.
+- New Vega upper stage and GE405H engine.
+- New spin decouplers in 3.125m, 0.625m, 0.9375m and 1.25m sizes to spin up solid kick motors. (Recommend for use with Persistent Rotation mod).
+- Yo-yo despin device which uses KSP physics to slow down spin stabilised stages after kick solid motor burn out.
+- Simple Adjustable Fairings (SAF) as a new dependency, allows adjustable and realistic looking fairings.
+- Over 30 mostly historically accurate SAF fairings for Thor, Delta, Titan, Atlas, Centaur and many more.
+- Many more texture variants including several by InvaderChaos
+- Custom BDB contract pack (requires contract configurator) by Morphisor
+- Custom Kerbal suits for BDB (Apollo/Skylab era A7L, A7LB and A7LB commander suits) by Benjee10. Works via stock suit switcher in KSP 1.10+ only. Optional Texture Replacer compatible files in BDB Extras for older KSP versions.
+- New Flags by CineboxAndrew
+- New craft files by Friznit for all the new spacecraft and most rocket variants.
+- Lots of new science experiment definitions
+- New sequential fire feature available with some solid rocket motors (intended for Gemini and Mercury solids). Allows for staggered firing of motors (with optional overlap) within the same staging action. Needs to be enabled and setup in VAB.
+- Methalox B9 tank type (same ratio as Hephaistos, Provenance Aerospace and CryoTanks)
+
+All the probes
+- AIMP/IMP
+- Alouette
+- Biosat
+- Courier, Relay & Telstar
+- Explorer 1, 7, 8, 11, S45, S46
+- Pioneer 1, 4
+- Pioneer P3
+- Pioneer 5 (by InvaderChaos)
+- Pioneer 6
+- Lunar orbiter
+- Nimbus (parts for most variants)
+- Orbiting Astronomical Observatory (OAO 1,2 & 3)
+- Orbiting Frog Otolith
+- Orbiting Geophysical Observatory
+- Orbiting Solar Observatory
+- Ranger block I, II, III, Ranger B, Mariner 2 and Ranger Lander.
+- TIROS-1
+
+Misc
+- Updated B9PartSwitch
+- Updated Module Manager
+- Updated Community Resource Pack
+- Updated Dmagic Science Animate
+- Remove MiniAVC
+
+Fixes
+- replace legacy shaders on some plume particles
+
+Deprecated
+these parts are soft deprecated (hidden in the VAB) in this release and will be permanently removed in the near future
+- Old Agena parts
+- Old Juno II Parts
+- Old 'Early Rockets' parts including Thor, Redstone and Juno I
+- Old mercury parts
+- old Gemini capsule parts
+- Old versions of OGO, Explorer 7, Ion engine, pioneer 6, Pioneer P3, Ranger, Sputnik 3 and Venera 1
+- Old Vega
+
+- v1.6.3 "титан"
+
+Fixes
+- Fixed drag cubes so BDB loads in KSP 1.10.1
+- Remove miniavc.dll since its been broken and discontinued
+
+Misc
+- Update bundled B9PartSwitch, Community Resource Pack, Dmagic Science Animate and Module Manager.
+- Update .version file
+- OLD TITAN FOLDER IS NOW HARD DEPRECATED and removed entirely
+- Removed variants from stock type fairings.
+
+
+- v1.6.2 "титан"
+
+New
+- Add IDCSP probe and modular decoupler truss
+- 47 new craft files (Thanks to Friznit)
+- New experiment and sciencedefs for KH10 Dorian MOL camera
+- New experiment and sciencedefs for Skylab ATM (thanks to Gregroxmun)
+
+Misc
+- update .version file
+- update changelog.txt
+- update bundled B9PartSwitch to v2.12.1 (the BDB github download for KSP 1.7.3 will still bundle B9PS v2.11.1)
+- update readme.txt
+- update mini avc.dll and move to new versioning folder
+
+Fixes and updates
+- various realnames fixes
+- Change realnames patch order
+- Some realnames fixes for BDB_Extras (thanks to Pappystein)
+- Add Titan whoop for some engines which were missing it (RealPlume)
+- Minor realplume tweaks
+- Atlas CELV tech balance
+- LDC structural parts tech balance
+- Optional patch in extras to remove throttle response lag from engines that have it
+- Engage sound fixes for some engines
+- KH10 Dorian MOL camera scansat module changed to low res altimetry
+- TAC life support update for LEM (thanks to Wallum)
+- Fix Gemini station inflatable airlock collider
+- Texture update for Peacekeeper PBV white variant
+- More detailed collider for Castor 30 and 30XL (enables attachment under the stage around the nozzle)
+- Fix missing solar transforms from Helios sunshade and Apollo sub satellite
+- Enable surface attach for Soltan and LDC nose cones
+- Fix ring and fork docking port clipping
+- Fix CELV adapter tank endcap texture
+
+v1.6.1 "титан"
+update .version file
+kerolox config for LR87-AJ11-Vac
+some plume updates
+
+v1.6.0 "титан"
+
+New Features:
+
+Part upgrades are now handled through B9 switches. Allows users to choose the old versions for cost reasons or replica building.
+Type switching via B9 (not linked to upgrades) such as for sea level and altitude optimised versions of some engines and SRBs.
+Numerous parts have received new stat upgrades, researchable at the R&D Building
+New real names patch in BDB Extras. Parts have been updated with real names, descriptions and manufacturers where available (thanks to IronCretin, MotokiKun and Zorg)
+EngineIgnitor compatibility added (thanks to Rock3tman_)
+Fully redone plumes for both stock particle system using PlumeParty based FX including FX exclusive to BDB (thanks to Jade of Maar)
+Overhaul of RealPlumes for BDB, except for SRB plumes all use bespoke RealPlumes mostly built using plume party and custom FX (thanks to Zorg)
+Thrust termination abort mode added to UA120 series solid boosters.
+Plume switching for ahistorical Kerolox versions of several hypergolic Titan engines
+Comprehensive documentation and build guides available on the (unofficial) BDB wiki!
+Compatibility support for KSP Breaking Ground expansion inventory for appropriate parts
+Compatibility support for rescue pod validator (Thanks to DeltaDizzy)
+Compatibility support for Universal Storage 2
+JSO’s procedural fairings for BDB mini mod has been added natively to BDB compatibility files.
+LH2 only and Monoprop tank types added to BDB fuel switcher for all tanks.
+Custom engine lighting configs with colours to match plumes for some engines (thanks to Zorg)
+Balance Changes:
+All engines both upper and lower now use a consistent scaling factor of 25% of real world thrust value. Thrust and masses of all engines which used 37% and 50% adjusted.
+Wet workshops now have boil off for LH2.
+
+Dioscuri-4 'Dziran' Solid Rocket Motor rebalanced to match Castor IV stats. (inline version remains balanced as an overscaled Scout second stage).
+Deprecated parts and features:
+
+All old titan parts are soft deprecated.
+All diamant parts are soft deprecated.
+Soft deprecated parts will be hidden in tech tree and VAB. They will be hard deprecated in a minor release soon after BDB 1.6. Craft using these parts should be retired.
+Old realnames patch in BDB Extras has been removed.
+Old sandbox patches in BDB Extras has been removed, all upgrade versions of a part are now selectable via B9 switches.
+Titan II GLV patch for old titan parts has been removed.
+Bugfixes:
+
+Fix Paxus-MGL120/SR3 "Menelaus" rotation
+Fix Belle Docking Port pink material
+Miscellaneous:
+
+Updated art for the Bossart (Atlas) parts
+Kane active docking port and parachute mount shape tweaked.
+Bare mount 0.625m switch added to Kane active docking port
+Patch to add LR87 AJ9 as a subtype to the AJ5 added to Extras.
+A patch added in extras that buffs upper stage engines back to 50% of real world values and engines which have - both upper and lower stage variants to 37.5% (this was the old balance)
+Updated existing USI life support patches with new USI module names (thanks to SilveiraMarcel)
+Updated tweakscale patches (Thanks to Silveira Marcel and Zorg)
+Leo service modules texture brightened to better match with new MOS parts.
+Updated Saturn HG3 patch in BDB Extras (thanks to Pappystein)
+Added downward firing RCS to Vejur engine mount.
+Update SMURFF compatibility for JNSQ
+
+
+
+
+v1.5.2 "Бруно"
+Fixed typo in Mercury pod name
+Fix Gemini RealChute compatibility
+Saturn rescale. Prevent S4 2.5m parts being inappropriately up scaled and support Procedural Fairings parts.
+Radial solids CoM adjust. Might help with solids colliding after separation.
+Lower stage solids smoke after flameout.
+Add Sina tag to LEM passive docking mechanism
+Allow remote control of LEM Ascent Cockpit
+Possible fix for SAS issues. Craft may need to be rebuilt.
+Update RL10, J2, Agena A and D plumes
+
+v1.5.1 "Бруно"
+Changelog:
+
+NEW PART: "Taber" Pioneer P3 Engine - Early 0.625m service module / circularization engine for probes.
+Minor edit to the "Pog" probe core.
+Fix Delta P fairing ring bottom (interstage) node position. This was overlooked when the Delta K was adjusted.
+New stock engine effects: Able, Ablestar, Castor 1, Thor, Vanguard, Sargent motors, Juno: 6K, 45K, S3D, and Vernier.
+Raise Sargent motors Isp to 235/214. Those are real numbers.
+Fix Skylab window covers switch in flight
+Disable allow shutdown on SR120. Not compatible with the animated engine and was causing the engine to never start. (Thanks Roryamm and Rocketology for catching this)
+Typo fix in DeltaP_FairingRing.cfg (Thanks Komodo for catching this)
+Fixed FX for the "Wally" SRB
+Fixed Gemini SM plumes.
+
+
+v1.5.0 "Бруно"
+WARNING: This update contains save breaking changes. PLEASE back up your save before installing.
+
+Changelog:
+
+Redone Atlas V
+Redone Delta II
+Redone Peacekeeper-derived parts
+Redone Scout
+Redone Kick solids
+Assorted other new parts
+New non-RP Plumes thanks to JadeOfMaar
+Some save breaking tech tree balance fixes
+Tons of other stuff like we've been working on this for 51 weeks I don't remember
+
+
+v1.4.4
+Save breaking. For new career games only.
+For KSP 1.4.x, 1.5.x
+
+
+v1.4.2 "атлас"
+AJ-260 solid boosters
+LEM IVA
+Too many bug and balance fixes to count
+
+v1.4.1 "атлас"
+-Fixed Saturn S1 issues
+-Fixed Titan radial decouplers
+-Fixed Titan 2 engine shroud
+-Fixed HLR-ZOID radiators
+
+v1.4.0 "атлас"
+-Atlas revamp
+-Centaur revamp
+-Vega revamp
+-Saturn 1 revamp
+-Pioneer 6
+-Ion probe parts
+-ETS Apollo revamp
+-Spacelab
+-Venus Flyby parts
+-probably a lot more stuff
+
+v1.3.1 "небеса"
+Minor update of plugins to fix 1.3.1 crashing issues. Does not include any new or updated parts from the 1.3 release.
+
+1.1.7 - or maybe 1.3
+...
+stuff
+...
+
+1.1.6
+KSP 1.3 release.
+
+1.1.5b
+Final Ksp 1.2.2 release.
+New parts:
+-Sea level J-2
+-Mini radial decoupler
+-Titan 1.875m radial decoupler
+-Sputnik 3 probe core.
+-Centaur D3 and D5 tanks.
+
+-Lots of new textures everywhere.
+
+-Moved Prometheus IV single chamber engine to Heavy Rocketry. Adjusted alternator, cost and mass. Changed title to Prometheus-X-350.
+-MOL lab settings tweaked to generate science faster. Mass and cost adjusted.
+-OSO experiment mass fixed.
+-S1E engine mount, SLA heat tolerance increased.
+-RCS cost balanced.
+-Balloon and Cryo tanks cost reduced.
+-All engines cost adjusted. Huge solids now very expensive.
+-More tags
+
+1.1
+-SAVE BREAKING UPDATE - Backup saves (KSP\saves) and remove any previous version of BDB (KSP\GameData\BlueDog_DB) before installing.
+-New parts. Apollo Block V and AARDV, Scout rocket, Centaur T stage redone, Vega upper stage, OSO experiment.
+-Tech tree completely redone.
+-Lots of testing and adjustments by minepagan, IronCretin and Komodo and probably others.
+-Far too many bugs fixes, tweaks and graphic improvements to list.
+
+1.0.1
+-Added version of DMSA for KSP 1.2.
+
+1.0
+-Updated BDB to KSP 1.2. New modules, etc
+-Added Saturn S-IVB upper stage (3.75m) – Saturn V 3rd stage / Saturn 1B 2nd stage
+-Added Saturn S-II stage (5.625m) – Saturn V second stage
+-Added Saturn S-IC stage (5.625m) – Saturn V first stage
+-Added Saturn S-IE stage (3.75m) – Saturn 1C first stage (Eyes Turned Skywards)
+-Added Apollo Block 2 CSM (2.5m)
+-Added first parts of advanced Apollo variants
+-Added Lunar Excursion Module
+-Added FASA Launch Clamps courtesy of Frizzank and the FASA team.
+-Added APAS variant courtesy of CXG
+-Included Community Resource Pack, for resource definitions.
+-Saturn upper stages and Centaur converted to run off lqdHydrogen resource, for balance reasons. Additional functionality will be added to the cryogenic engines in future releases.
+-Probably a bunch of other stuff.
+
+0.11.2
+-Final build for KSP 1.1.3. Begine prep for 1.2.
+-64K/SMURFF configs.
+-Small mass errors in Atlas tanks corrected.
+-Uprated S-I stage. More thrust for H1's, more fuel.
+-F1 and J2 engines.
+-Saturn S-IC, S-II stages. Untextured, rough models for testing.
+-Saturn S-IVB stage.
+-Apollo SM cargo bays shielding fixed.
+-Apollo Service Module (SM) mass increased to bring dry mass in line with other Apollo parts.
+-LEM, Redstone, Saturn RP plumes.
+-Apollo Launch Escape System (LES). @Kurld
+-Apollo Lunar Excursion Module (LEM).
+
+0.11.1
+-Added a second attach node to Big G heatshield for no shroud. Made an omni decoupler. (like the stock 2.5 heatshield).
+-MOS-PS-80 Monopropellant tank attach node moved closer (was hovering). Tags added.
+-Apollo textures fixed/normal maps.
+-Agena nosecone decouple effects.
+-Apollo fuel cell consumption increased.
+-Agena docking port staging icon removed. Doesn't work right.
+-USI Life Support. @komodo
+-Centaur remotetech. @komodo
+-Mercury/Gemini/Big Gemini/Apollo bouyancy. They all should float with hatches above the surface now.
+-More Tweakscale. @Cowboy_WY
+-KIS support. @Cowboy_WY
+-Apollo parachutes untangled.
+-Structural parts titles changed. Cost and mass balanced.
+
+0.11 (Vaquero!)
+-Tweakscale support on all compatible parts (hopefully) - Cowboy-WY
+-Bulkhead profiles corrected everywhere - Cowboy-WY
+-Heatshields separated from pods
+-Antenna Range, Community Tech Tree Support, and Science definitions updated - rasta013
+-Saturn 1/Saturn IV and H-1 engines
+-MOL
+-Gemini reentry issues fixed
+-Gemini parts renamed to avoid conflict with TRAILS. Totally save breaking!
+-Numerous cost/mass/balance/description adjustments just about everywhere
+-Too many bug fixes to list
+-Part tags getting better
+
+0.10.6b
+-Navaho Real Plume configs
+
+0.10.6 (Mice!)
+-Added Mariner 4 dish
+-Thrust curves for solid engines
+-RealChute compatibility
+-Agena/Able/AbleStar balance
+-Added normal maps and other goodies to the Titan, Agena, and Mercury parts. Hurray!
+-Added SOLTAN parts
+-Moved some of the Titan parts around in the tech tree.
+-Moved the Leo parts around, now they all unlock at the same tier. The Big G crew module was moved up a node, along with its heatshield.
+-Art update for Agena, Thor, Redstone, Vanguard
+-Added Navaho engine
+-Cryogenic Engines compatability
+-Fixed the IR spectrometer not being rerunnable. @raveloda
+-Updated Antenna Range compatibility patches. @rasta013
+-Upgraded Navaho engine to 1.25 meter and significantly increased power. Include a little test to make it very unreliable and prone to explode due to overheating.
+-Gemini parachute fix. Might finally have it this time. Rebuilt the chute from scratch and increased the drag on the capsule.
+-Numerous minor bug fixes
+
+0.10.5 (Krikkit!)
+-KSP 1.1 Compatibility
+-Updated DMagicScienceAnimate
+-Added TRAILS Gemini parts.
+-Added Agena docking parts.
+-Added specular maps to some of the parts
+-Redid all the antennas
+-Added several new antennas
+-Misc fixes
+-Screw you I hate changelogs
+
+0.10(Älter!)
+-Added Hullcam support to camera parts, courtesy of Jso
+-Added Juno/Jupiter rocket parts
+-Added Diamant rocket parts
+-Added a number of small early probe parts
+-Added Castor 120 and 30, for making Athena / Carrack
+-Added a number of upper stage solid boosters
+-All upper stage solids can be shut down and restarted, to make them more useful
+-Added new sepratrons based on PDCWolf's Perfectron series
+-Added two new engines based on the Titan first stage
+-Redid many of the textures, again. Parts should generally look higher res than they actually are
+-Rearranged the tech nodes of many parts, to give a more steady progression
+-Structural adapters no longer have fuel tank ends
+-Fairing bases now look more like fairing bases, and not short fuel tanks
+-Split Redstone tank into two separate parts
+-Converted the Agena SPS to run on LFO
+-Rescaled Agena to a more accurate 0.9375m
+-Added a new BDB flag
+-Probably many more things I've forgotten
+
+0.09 (Prometheus!)
+-All launcher parts were rebalanced with help from Jso and Araym
+-Added Titan 1, 2, 4 first stages
+-Added Titan 1, 2, 4 second stages
+-Added Titan SRMs (various flavors)
+-Added Titan Transtage
+-Added Delta 2 first stage
+-Added GEM strap on SRBs (3 flavors)
+-Added Delta-K second stage
+-Edited textures for most of the rocket parts
+-Thor parts were completely redone
+-Atlas V textures were redone on a larger texture sheet, improving the resolution
+-Centaur interstages were redone **IMPORTANT** they now connect to a hidden node just below the top rim of the centaur mounting plate
+-Added camera parts - film, self developing film, and pure digital
+-Added three new science parts - a folding magnetometer, a hydrometer, and an IR spectrometer
+-Added Ranger probe core and a new 100 EC battery
+
+0.08 (Quicksilver!)
+-Added phase 1 of the probe part expansion. New cores, science, utility, propulsion!
+-Added parts based on the real life Mercury Spacecraft, donated from PassingLurker's Bloeting mod!
+-Added Karrot 2 man pod.
+-Atlas V parts were redone entirely. The textures are currently low-res, and will be updated at some point in the future.
+-Most of the textures for the launcher parts were redone, to add more detail.
+-Real plumes support added, courtesy of VenomousRequiem.
+-Added Bluedog Design Bureau as a working agency. I didn't break the game this time, I promise. I think.
+-Bloeting Corp is also an agency.
+
+0.07 (Rockets expansion!)
+-Added Vanguard 0.975m lifter parts
+-Added Able 0.625m upper stage parts
+-Added Ablestar 0.9375m upper stage parts
+-Added long 1.25m fuel tank for Redstone
+-Added 0.5m radial SRB
+-Added parts for Thor 1.5m launcher
+-Fixed exhaust on the Atlas verniers
+-Added custom fairing textures to some of the BDB fairing bases. They no longer use the stock texture.
+-Tweaked the Atlas engine textures. They needed some work.
+-Fixed the Atlas engine fairings.
+
+0.06 (Atlas!) (5/11/2015)
+-Added Atlas launch system!
+-Added Centaur upper stage!
+
+0.05b
+-Fixed science compatibility - your modded career should work again!
+-Redid B109-D model
+-Moved B109-D to General Rocketry
+
+0.05 (IMPACT!) (10/21/2015)
+-Micrometeoroid Detector now animates! REAL (fake) IMPACTS!
+-Micrometeoroid Impacts are now powered by DMagicScienceAnimateGeneric (that's a mouthful) - if you like them give him thanks!
+-Made changes to the model of the Micrometeoroid Detector
+-Added some sciencedefs for each stock body to the Micrometeoroid Detector.
+-Added several new sciencedefs to the Ion Trap.
+-Updated science parts and merged them onto a smaller texture sheet.
+-Edited the collider for the Ion Trap. Should be easier to right click now.
+-Added Mass Spectrometer experiment. Find out what's in that cosmic dust!
+-Added Geiger Counter experiment. Find out how irradiated your kerbals are getting!
+-All antennas had their mesh and textures updated.
+-Added MSC Dome Antenna - Looks like a backwards dish antenna and functions about as well. 60Mm range, 40 degree arc.
+-Added DP-75 Dipole Antenna - The antenna for people that thought Darth Maul's lightsaber was the coolest. 5Mm range.
+-Minor buff to the M17 antenna's charge rate - should make it slightly more useful.
+-N100 Omni now uses geiger counter and mag scan science defs from FASA and DMagic respectively.
+-Removed N120... sorry.
+-Redid Sienno probe parts. They now take up less texture memory and are more adaptable.
+-Added adapter to Sienno probe core. Use the bottom node for a built in .3125m adapter plate.
+-Added small decoupler for sienno parts, goes from .625m > .3125m.
+-Added thermometer experiment to Sienno probe core.
+-Added BDB as a contractor. I haven't been able to test it much. Let me know if it works.
+
+0.04 (Atlas V) (9/10/2015)
+-Finished texture updates that were unlisted in 0.03. Antennas should look a bit better now.
+-Added Muo-2207 Liquid Engine - 2.5m engine based on the RD-180. For now it's a slightly more powerful Mainsail.
+-Added Muo-2585 Fuel Tank - 2.5m fuel tank based on lower half of Atlas V CCB tank. Inbetween Jumbo-64 and X200-32.
+-Added Tweakscale support to engines, Muo tank, PGM CS.
+-Added BDB flag. It's a wurf.
+-Fixed a few small cfg errors.
+
+0.03 (Redstone) (7/10/2015)
+-Resized Sienno parts to .125m in anticipation of the Taerobee WAC
+-Added PGM Liquid Fuel Engine - 1.25m, early rocket. Less powerful than LVTs but cheaper + more efficient.
+-Added PGM Control Surface - Winglet + Control surface for PGM Engine. Includes thrust vanes. Because I like ya a lot.
+-Added B109-D Radial Engine - Basically a half sized Mk55, unlocks slightly earlier. Helps add control authority and TWR to rockets.
+-Made it so Sienno probe core actually works with Remotetech.
+
+0.02 (Antennas!) (6/10/2015)
+-Added 'A' to the beginning of each antenna's name, to help with VAB organization.
+-Added AN120 Omni Antenna - side folding version of the N100
+-Added AKD2 Antenna - Extremely simple starting antenna. Short range, weighs almost nothing, has almost no power draw. 1Mm range.
+-Added AA23 Antenna - Mid tech omni antenna. Nothing special, mostly looks cool/different. 2.5Mm range.
+-Added AF23 Helical Antenna - Early tech communications antenna. Short but wide.
+-Added AWPT Scimitar Antenna - Mid tech 'dish' antenna. 35Mm range, 120 degree arc.
+-Added Remotetech definitions for original antennas:
+	-AN100 omni now has a 10Mm range. That size has to be good for something, nyeh?
+	-AA27-C omni now has a 7Mm range. Again, it's heavy.
+	-AM17 omni now has 2Mm range. Might buff to 2.5Mm same as communotron 16.
+-Added functioning experiments to Sienno probe and N100 omni antenna.
+
+0.01 (Alpha release 30/9/2015)
+-First release
